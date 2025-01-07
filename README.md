@@ -22,6 +22,9 @@ ChatGPT镜像网站（ChatGPT Free Mirror）是指通过复制原始网站的内
 
 - [免费ChatGPT](https://lanjing.ai/) - 支持GPT-4和4o，以及MJ绘画功能。
 
+## 友情链接
+- [https://onlyguo.github.io/chatgpt-mirrors-free-/](https://onlyguo.github.io/chatgpt-mirrors-free-/)
+
 ## 国内自主研发的大模型汇总
 
 - [文心一言](https://yiyan.baidu.com/) - 百度推出的AI助手。
